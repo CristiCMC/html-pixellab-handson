@@ -35,6 +35,10 @@
       text-decoration: none;
     }
 
+    a[href^="http://"] {
+      color: red;
+    }
+
     a[href*='.com'] {
       color: black;
     }
@@ -47,6 +51,17 @@
       color: purple;
     }
 
+    [class='desc odd'] [class='line'] {
+      color: blue;
+    }
+
+    [class='desc odd'] i {
+      text-decoration: underline;
+    }
+
+    [class='desc even'] b {
+      text-decoration: underline;
+    }
   </style>
 
   <h2>Google</h2>
