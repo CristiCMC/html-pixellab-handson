@@ -1,0 +1,23 @@
+/* inseert code */
+
+body h3:nth-of-type(4) {
+  color: green;
+}
+
+ul.u-line li:first-child {
+  text-decoration: underline;
+}
+
+body > ul > li:nth-of-type(3n) {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+p:nth-of-type(2n + 1) {
+  background-color: brown;
+  padding: 15px;
+}
+
+ul li:last-child {
+  text-decoration: underline;
+}

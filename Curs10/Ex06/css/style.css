@@ -1,0 +1,10 @@
+/* insert code */
+
+p i {
+  position: relative;
+}
+
+p:hover i {
+  top: -2px;
+  right: -2px;
+}
