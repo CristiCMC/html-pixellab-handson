@@ -10,6 +10,7 @@ input[type='radio']:checked + label {
 
 select option:checked {
   text-decoration-color: red;
+  text-size-adjust: bold;
 }
 
 input[type='checkbox'] + label {
