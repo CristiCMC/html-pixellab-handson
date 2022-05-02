@@ -4,7 +4,7 @@ body {
   color: green;
 }
 
-body a {
+a {
   color: inherit;
 }
 
@@ -19,6 +19,7 @@ body a {
 .para-short p {
   border: 1px solid red;
   width: inherit;
+  text-align: center;
 }
 
 .list {
