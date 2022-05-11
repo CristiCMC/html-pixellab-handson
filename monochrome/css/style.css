@@ -279,11 +279,13 @@ a {
 
 .header-connect li {
   display: inline-block;
+  gap: 12px;
 }
 
 .header-controls {
   float: right;
   display: inline-flex;
+  gap: 12px;
 }
 
 .header-controls li {
