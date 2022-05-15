@@ -543,12 +543,12 @@ hr {
 
 .footer-inner {
   display: flex;
-  font-size: 22px;
   color: #2b2b2b;
   text-transform: lowercase;
   justify-content: space-between;
   text-align: left;
   padding-top: 41px;
+  font: 22px/37px Playfair Display;
 }
 
 .footer-submit ul li {
